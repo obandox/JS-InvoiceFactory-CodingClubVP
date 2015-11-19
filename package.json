@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "bluebird": "^3.0.5",
     "faker": "^3.0.1",
+    "lodash": "^3.10.1",
     "shortid": "^2.2.4",
     "uuid-js": "^0.7.5"
   }
