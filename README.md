@@ -1,3 +1,8 @@
+# Notes
+https://getfirebug.com/wiki/index.php/Console_API#console.table.28data.5B.2C_columns.5D.29
+
+https://developer.chrome.com/devtools/docs/commandline-api
+
 # JS-InvoiceFactory-CodingClubVP
 
 https://edu-vp.slack.com/files/daniel/F0DRJE80M/Invoice_Factory

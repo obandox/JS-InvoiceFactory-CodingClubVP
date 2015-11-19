@@ -11,7 +11,3 @@ var products = [];
 for (var i = products_size; i >= 0; i--) {
     products.push(Product.createFake());
 };
-
-
-
-console.log(products);
