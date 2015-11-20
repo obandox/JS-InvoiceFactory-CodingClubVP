@@ -22,4 +22,6 @@ invoice.add(_.sample(products), 2);
 
 invoice.register();
 
+
+
 console.log(JSON.stringify(invoice, false, 2));

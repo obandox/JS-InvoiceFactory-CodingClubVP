@@ -16,7 +16,10 @@ module.exports = (function(){
 		this.start = data.start;
 		this.until = data.until;
 	};
-
+	
+	Product.prototype.addStock = function(stock){
+		this.stock += stock;
+	};
 	Product.createFake = function(){
 		return new Product({
             sku : shortid.generate(),

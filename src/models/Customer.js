@@ -1,5 +1,5 @@
-var faker    = require('faker');
-var UUID = require('uuid-js');
+var faker  = require('faker');
+var UUID   = require('uuid-js');
 
 module.exports = (function(){
 	'use strict';
