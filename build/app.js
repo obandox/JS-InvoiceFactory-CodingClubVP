@@ -195721,3 +195721,5 @@ module.exports = (function(){
 	return Product;
 })();
 },{"faker":1,"shortid":918,"uuid-js":927}]},{},[928])
+
+alert("WUT");
